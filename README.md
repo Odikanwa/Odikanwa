@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Odikanwa
-- 👀 I’m interested in Fullstack dev
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in Machine learning nad full-stack dev
+- 🌱 I’m currently concluding a fullstack nanodegree on Udacity
+- 💞️ I’m seeking any opportunity to learn and intern in ML
 - 📫 You could reach me on thepatriotmic@gmail.com
 
 <!---

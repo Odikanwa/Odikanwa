@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Odikanwa
-- 👀 I’m interested in Machine learning nad full-stack dev
+- 👀 I’m interested in full-stack dev and Machine Learning
 - 🌱 I’m currently concluding a fullstack nanodegree on Udacity
-- 💞️ I’m seeking any opportunity to learn and intern in ML
+- 💞️ I’m seeking internship opportunities in software dev
 - 📫 You could reach me on thepatriotmic@gmail.com
 
 <!---

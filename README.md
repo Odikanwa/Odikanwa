@@ -53,7 +53,7 @@ I'm actively searching for internship opportunities or entry roles.
   ### 📌 Twitter Handle
   
   <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://twitter.com/OdikanwaMichael/">
     <img src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FOdikanwaMichael" alt="Twitter"/>
   </a>
   </div>

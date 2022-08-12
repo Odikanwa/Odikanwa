@@ -22,6 +22,12 @@ I'm actively searching for internship opportunities or entry roles.
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
 
+### 🚀 Lauched Projects
+
+As part of my learning process, I have launched:
+  - An ecommerce site for wine sales: [Oreegi](https://oreegi.vercel.app/)
+  - A landing page for a branding company: [Umbranded](https://umbranded.netlify.app/)
+
 ### 🔭 I’m working on
 
 - Completing a full-stack nanodegree course with Udacity

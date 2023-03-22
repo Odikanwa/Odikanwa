@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a newbie full-stack developer transitioning into software development from computer networking. I love creating sleek full-stack web apps. 
+I'm a full-stack developer transitioning into software development from computer networking. I love creating sleek full-stack web apps. 
 I find designing and bringing ideas to life through coding more invigorating and fulfilling. 
 I'm actively searching for internship opportunities or entry roles. 
 

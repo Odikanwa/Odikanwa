@@ -25,7 +25,7 @@ I'm actively searching for internship opportunities or entry roles.
 ### 🚀 Lauched Projects
 
 As part of my learning process, I have launched:
-  - An ecommerce site for wine sales: [Oreegi](https://oreegi.vercel.app/)
+  - A portfolio site: [Odikanwa](https://odikanwa.netlify.app/)
   - A landing page for a branding company: [Umbranded](https://umbranded.netlify.app/)
 
 ### 🔭 I’m working on
